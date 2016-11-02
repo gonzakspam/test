@@ -1,5 +1,5 @@
 package doopa;
 
 public class Test {
-
+	private int a;
 }
